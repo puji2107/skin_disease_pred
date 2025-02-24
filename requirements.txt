@@ -56,3 +56,9 @@ wcwidth==0.2.13
 webencodings==0.5.1
 Werkzeug==3.0.3
 yarg==0.1.9
+streamlit==1.32.2
+tensorflow==2.16.1
+numpy==1.26.4
+pillow==10.2.0
+huggingface_hub==0.23.2
+
