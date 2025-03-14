@@ -25,7 +25,7 @@ Execution:
 Training Process: The model is trained on the training set with batch size 32 for 10 epochs in each phase.
 Validation: The model's performance is monitored on the validation set during training, with early stopping and learning rate reduction based on validation accuracy.
 Testing: The final model is evaluated on a separate test set to determine its accuracy.
-
+![alt text](output/output.png)
     
 Results:
 Training Accuracy: Achieves high accuracy during training, indicating effective learning.
