@@ -46,6 +46,6 @@ Final Validation Accuracy: 72.16%
 Test Accuracy: 75.08%
 These results demonstrate the model's potential for accurate skin lesion classification and its utility in assisting dermatological diagnosis.
 
-[https://skin-disease-prediction-svecw.streamlit.app/](https://skin-disease-predict.streamlit.app)  - deployment
+[https://skin-disease-predict.streamlit.app/](https://skin-disease-predict.streamlit.app)  - deployment
 
 
